@@ -8,9 +8,12 @@ Cara Menggunakan Program
     Pilih 1 untuk melakukan enkripsi.
     Pilih 2 untuk melakukan dekripsi.
     Pilih 3 untuk keluar dari program.
+
+
    ![image](https://github.com/satrioabdi/KIJ-KIPTOGRAFI/assets/44046213/46c7bbcf-5784-4755-bc2a-677a76f4f9ca)
 
-4. Setalah Memilih menu maka kita diminta untuk memasukkan data, Program akan meminta  untuk memasukkan teks dan kunci sesuai operasi yang dipilih. Masukkan data yang diperlukan dan program akan menampilkan hasil enkripsi atau dekripsi.
+
+5. Setalah Memilih menu maka kita diminta untuk memasukkan data, Program akan meminta  untuk memasukkan teks dan kunci sesuai operasi yang dipilih. Masukkan data yang diperlukan dan program akan menampilkan hasil enkripsi atau dekripsi.
 
 Proses Enkripsi
 
